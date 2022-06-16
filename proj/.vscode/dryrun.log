@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/flux/UNI/2ANO/LCOM/MINIX-LCOM/shared/proj'
+make: Leaving directory '/home/flux/UNI/2ANO/LCOM/MINIX-LCOM/shared/proj'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
